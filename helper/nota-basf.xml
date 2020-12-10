@@ -1,0 +1,306 @@
+<nfeProc versao="4.00"
+    xmlns="http://www.portalfiscal.inf.br/nfe">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe35200548539407009255550010002002881925781008">
+            <ide>
+                <cUF>35</cUF>
+                <cNF>92578100</cNF>
+                <natOp>Transferencia producao estabelecimento</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>200288</nNF>
+                <dhEmi>2020-05-28T18:33:34-03:00</dhEmi>
+                <dhSaiEnt>2020-05-28T18:33:34-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>3524402</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>8</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>9</indPres>
+                <procEmi>0</procEmi>
+                <verProc>4.00</verProc>
+            </ide>
+            <emit>
+                <CNPJ>48539407009255</CNPJ>
+                <xNome>BASF S.A.</xNome>
+                <xFant>Jacarei</xFant>
+                <enderEmit>
+                    <xLgr>EST DO RIO ABAIXO</xLgr>
+                    <nro>SN</nro>
+                    <xCpl>ROD PRES DUTRA KM 161</xCpl>
+                    <xBairro>RIO ABAIXO</xBairro>
+                    <cMun>3524402</cMun>
+                    <xMun>JACAREI</xMun>
+                    <UF>SP</UF>
+                    <CEP>12335010</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>1221286100</fone>
+                </enderEmit>
+                <IE>392109284115</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>48539407000207</CNPJ>
+                <xNome>BASF SA</xNome>
+                <enderDest>
+                    <xLgr>AVENIDA BRASIL</xLgr>
+                    <nro>791</nro>
+                    <xBairro>ENGENHEIRO NEIVA</xBairro>
+                    <cMun>3518404</cMun>
+                    <xMun>GUARATINGUETA</xMun>
+                    <UF>SP</UF>
+                    <CEP>12521140</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>1231281200</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>332000198112</IE>
+                <email>nfe.br@basf.com</email>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>50352384</cProd>
+                    <cEAN>7891260350348</cEAN>
+                    <xProd>Agnique ME 18 P-B 850KG 31HA1</xProd>
+                    <NCM>38260000</NCM>
+                    <CFOP>5151</CFOP>
+                    <uCom>KG</uCom>
+                    <qCom>17850.0000</qCom>
+                    <vUnCom>6.5489025210</vUnCom>
+                    <vProd>116897.91</vProd>
+                    <cEANTrib>7891260350348</cEANTrib>
+                    <uTrib>M3</uTrib>
+                    <qTrib>17850.0000</qTrib>
+                    <vUnTrib>6.5489025210</vUnTrib>
+                    <indTot>1</indTot>
+                    <nFCI>11598579-D0F4-4EE7-9571-981A2E0B6387</nFCI>
+                    <rastro>
+                        <nLote>0022853246</nLote>
+                        <qLote>17850.000</qLote>
+                        <dFab>2020-05-25</dFab>
+                        <dVal>2022-05-25</dVal>
+                    </rastro>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>5</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>116897.91</vBC>
+                            <pICMS>18.000</pICMS>
+                            <vICMS>21041.62</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <CNPJProd>48539407009255</CNPJProd>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>50</CST>
+                            <vBC>116897.91</vBC>
+                            <pIPI>10.000</pIPI>
+                            <vIPI>11689.79</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <II>
+                        <vBC>0.00</vBC>
+                        <vDespAdu>0.00</vDespAdu>
+                        <vII>0.00</vII>
+                        <vIOF>0.00</vIOF>
+                    </II>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.0000</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.0000</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+                <infAdProd>Lote:(0022853246) Data Lote:(25.05.2020) 1/850,000 Lote:(0022853246) Data Lote:(25.05.2020) 1/850,000 Resolucao  do Senado Federal N  13/12, FCI n  11598579-D0F4-4EE7-9571-981A2E0B6387</infAdProd>
+            </det>
+            <det nItem="2">
+                <prod>
+                    <cProd>50352384</cProd>
+                    <cEAN>7891260350348</cEAN>
+                    <xProd>Agnique ME 18 P-B 850KG 31HA1</xProd>
+                    <NCM>38260000</NCM>
+                    <CFOP>5151</CFOP>
+                    <uCom>KG</uCom>
+                    <qCom>850.0000</qCom>
+                    <vUnCom>6.5489058824</vUnCom>
+                    <vProd>5566.57</vProd>
+                    <cEANTrib>7891260350348</cEANTrib>
+                    <uTrib>M3</uTrib>
+                    <qTrib>850.0000</qTrib>
+                    <vUnTrib>6.5489058824</vUnTrib>
+                    <indTot>1</indTot>
+                    <nFCI>11598579-D0F4-4EE7-9571-981A2E0B6387</nFCI>
+                    <rastro>
+                        <nLote>0022853246</nLote>
+                        <qLote>850.000</qLote>
+                        <dFab>2020-05-25</dFab>
+                        <dVal>2022-05-25</dVal>
+                    </rastro>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>5</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>5566.57</vBC>
+                            <pICMS>18.000</pICMS>
+                            <vICMS>1001.98</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <IPI>
+                        <CNPJProd>48539407009255</CNPJProd>
+                        <cEnq>999</cEnq>
+                        <IPITrib>
+                            <CST>50</CST>
+                            <vBC>5566.57</vBC>
+                            <pIPI>10.000</pIPI>
+                            <vIPI>556.66</vIPI>
+                        </IPITrib>
+                    </IPI>
+                    <II>
+                        <vBC>0.00</vBC>
+                        <vDespAdu>0.00</vDespAdu>
+                        <vII>0.00</vII>
+                        <vIOF>0.00</vIOF>
+                    </II>
+                    <PIS>
+                        <PISOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pPIS>0.0000</pPIS>
+                            <vPIS>0.00</vPIS>
+                        </PISOutr>
+                    </PIS>
+                    <COFINS>
+                        <COFINSOutr>
+                            <CST>49</CST>
+                            <vBC>0.00</vBC>
+                            <pCOFINS>0.0000</pCOFINS>
+                            <vCOFINS>0.00</vCOFINS>
+                        </COFINSOutr>
+                    </COFINS>
+                </imposto>
+                <infAdProd>Lote:(0022853246) Data Lote:(25.05.2020) 1/850,000 Lote:(0022853246) Data Lote:(25.05.2020) 1/850,000 Resolucao  do Senado Federal N  13/12, FCI n  11598579-D0F4-4EE7-9571-981A2E0B6387 Local de Descarga:          6B1G B1G1</infAdProd>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>122464.48</vBC>
+                    <vICMS>22043.60</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCPUFDest>0.00</vFCPUFDest>
+                    <vICMSUFDest>0.00</vICMSUFDest>
+                    <vICMSUFRemet>0.00</vICMSUFRemet>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>122464.48</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>12246.45</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.00</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>134710.93</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <CNPJ>21898947000212</CNPJ>
+                    <xNome>BUENO LOG LOGISTICA E TRANSPORTES LTDA</xNome>
+                    <IE>796487774115</IE>
+                    <xEnder>R PIRAPETININGA 75</xEnder>
+                    <xMun>GUARULHOS</xMun>
+                    <UF>SP</UF>
+                </transporta>
+                <veicTransp>
+                    <placa>CVN8057</placa>
+                    <UF>SP</UF>
+                </veicTransp>
+                <vol>
+                    <qVol>22</qVol>
+                    <esp>Volumes</esp>
+                    <pesoL>18700.000</pesoL>
+                    <pesoB>20158.600</pesoB>
+                </vol>
+            </transp>
+            <pag>
+                <detPag>
+                    <tPag>90</tPag>
+                    <vPag>0.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>IPI tributado. . Declaro que os produtos perigosos estao adequadamente classificados, embalados, identificados, e estivados para suportar os riscos das operacoes de transporte e que atendem as exigencias da regulamentacao. Nao ha risco de contaminaca||o entre os produtos transportados. Os produtos nao identificados com Numero ONU e Classe de Risco foram ensaiados conforme os criterios de classe ou subclasse dispostos na Regulamentacao em vigor e considerados nao perigosos para o transporte.</infCpl>
+                <obsCont xCampo="7614374305">
+                    <xTexto>7614374305</xTexto>
+                </obsCont>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>11643219000125</CNPJ>
+                <xContato>Horacio Menin</xContato>
+                <email>Suporte.br@gosocket.net</email>
+                <fone>1155552012</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe35200548539407009255550010002002881925781008">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>G0QbjiuFkYGymiK2yYUZqN6PIJE=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>Ha7gaMx5U0Aa7lmFLr2pW1x6IBREuc5cNTgJnudUiFZ35T2+mdQ7MqSf8LIzAOHwh3q2iqKQnrgMi60iT3K1HsDbVM6KLUzLqi16TQMNRu5OYGq6aZLtfVIJ6YaXDQ58s3lNKjyfTXXa0dNf2NPSaIKAKc99O9HhCmoWylQTXVwx4KJLFRyVQnY64Qyt2C2u+vwsVjWO9fTx2RbAiJhwmpHvNE+OfY03+TLoni5QxxH0SfA/fPbfnLoV5UaVpGihrbbR+pjYFQcrQUvKmqVfD+Rej5Z11J7/4DsvNO3onHq11Q6Aa9ilYk90nxOsjdeVlMrKn1PLYLcnYTr8FNFXkQ==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>MIIHjjCCBXagAwIBAgIISGy/Cuqsp2cwDQYJKoZIhvcNAQELBQAwTDELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxKDAmBgNVBAMMH1NFUkFTQSBDZXJ0aWZpY2Fkb3JhIERpZ2l0YWwgdjUwHhcNMjAwNDEzMTU0MjAwWhcNMjEwNDEzMTU0MjAwWjCB6TELMAkGA1UEBhMCQlIxEzARBgNVBAoMCklDUC1CcmFzaWwxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRgwFgYDVQQLDA8wMDAwMDEwMDk1NzkwOTMxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRQwEgYDVQQLDAsoRU0gQlJBTkNPKTEoMCYGA1UECwwfU0VSQVNBIENlcnRpZmljYWRvcmEgRGlnaXRhbCB2NTEXMBUGA1UECwwONjIxNzM2MjAwMDAxODAxFDASBgNVBAsMCyhFTSBCUkFOQ08pMRAwDgYDVQQDDAdCQVNGIFNBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtKRwoXJ1isRqflCJha+1+phHas39VpuTiqu9vmG6qjDj3W+9M+A0YSV0EMAqTfNo62MMggmZbFzEYp4cyU54iyjBu/QiWQuNQgQqs3wSaqtkqnJnLOMLd0nAE052HyPtRlo/oDVZtx8d3qP4MFtRu4UlseHzjz0c1M0XMa/yxur5mkbZUOSM4MNs5bDAT5b7x7ftzUNBkAYL28wyOEFCdkyFgEdfm38zz5GtS9fF9lrptwDcgsS2lfQQSPKqtETjRVj/HTogMCdwyv2Kte07wJivLoFn5mu1NhHStGHXiKJe3cJTOxGaqNwoXnQxHDgE/gIw6Moqg3qQFn6eA7BRBwIDAQABo4IC1DCCAtAwHwYDVR0jBBgwFoAUVnWvSnOy2AjEfftsKBwR1ffBqMwwgZcGCCsGAQUFBwEBBIGKMIGHMEcGCCsGAQUFBzAChjtodHRwOi8vd3d3LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvY2FkZWlhcy9zZXJhc2FjZHY1LnA3YjA8BggrBgEFBQcwAYYwaHR0cDovL29jc3AuY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9zZXJhc2FjZHY1MIGzBgNVHREEgaswgaiBD0ZJU0NBTEBCQVNGLkNPTaA+BgVgTAEDBKA1EzMwNzA3MTk2MzIxNzQ4NzcxODA5MDAwMDAwMDAwMDAwMDAwMDAwVjIyNzE5OUNEUEYgREagIQYFYEwBAwKgGBMWTUFORlJFRE8gRElFVEVSIFJVQkVOU6AZBgVgTAEDA6AQEw40ODUzOTQwNzAwMDExOKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwcQYDVR0gBGowaDBmBgZgTAECAQYwXDBaBggrBgEFBQcCARZOaHR0cDovL3B1YmxpY2FjYW8uY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvZGVjbGFyYWNhby1zY2QucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCBmwYDVR0fBIGTMIGQMEmgR6BFhkNodHRwOi8vd3d3LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYWNkdjUuY3JsMEOgQaA/hj1odHRwOi8vbGNyLmNlcnRpZmljYWRvcy5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYWNkdjUuY3JsMB0GA1UdDgQWBBSDR2l8L8hAmArgePTcKGmIDSZGEzAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQADggIBAEBY234Vw13QGiuuI9AGtVQvRQNBAr5wX+Dr1QmGfumyjCDrJBcC7ZT/OASUv9H8oC+PsYRhT4Y0V6kFnMnXIuX8kWyESr1EGg+RhJgaBPaApEgksYkaRYnv6UEKfV9mxF2CvvcAuyUiUUvIy519O1rkIP37jNfStjy9DmdXECGiq7gOpQWdVhyHB6TeBXSbYpwQfdsv5drUmEU+aiM/pCNL/fM9oE8OGUD1QsPMCdx5uPWd5iH9KZhnIMvmGyoio7k1qK275EEnlmq9Tfnn5LTDqIxuE6CJN1757PZKpR0qjbx8ydNocvI0kKO+Bxz6fvKpAGCL32a977Xtr9aSr1ifdoiEz1DPlisf898j4w4pmDIV85e9hF11WyMFTZOfVFnCJdW1Tv18mA2N1KitLWvHsGh3BeADItu5VTfMdr2rl4N7COQimmGPG9ilgEgsFpqlwPIJCkP7ieTTSn8ooi3EmMjihJDDVvLsCzRTAHgIBQkgjlf/Xg5k4jfXs4g3uMMY18xVZhd9kDYJ8w0Vud6juDGuOC/Xo+NVLlKXEqdVv7svMIz5wQeZ56YB1vczfnmR4Sdppab2Jsd35I6XsfzJuyJGPKIbIEwFexlDEkw+H+gZ2hjg1CvDlowgEO7Vgjxp9qYJGRltu/J5jLkZNY5bW5cN7i05CtMW+DhSwybn</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00"
+        xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP_NFE_PL009_V4</verAplic>
+            <chNFe>35200548539407009255550010002002881925781008</chNFe>
+            <dhRecbto>2020-05-28T18:34:32-03:00</dhRecbto>
+            <nProt>135200429555347</nProt>
+            <digVal>G0QbjiuFkYGymiK2yYUZqN6PIJE=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>

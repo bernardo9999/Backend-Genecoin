@@ -1,0 +1,19 @@
+[
+    {
+      "name": "collectionNotasPrivateOrg1",
+      "policy": "OR('org1MSP.member')",
+      "requiredPeerCount": 0,
+      "maxPeerCount": 3,
+      "blockToLive": 10000000000,
+      "memberOnlyRead": true
+    },
+    {
+      "name": "collectionNotasPrivateOrg2",
+      "policy": "OR('org1MSP.member', 'org2MSP.member')",
+      "requiredPeerCount": 0,
+      "maxPeerCount": 3,
+      "blockToLive": 10000000000,
+      "memberOnlyRead": true
+    }
+   ]
+   

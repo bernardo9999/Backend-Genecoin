@@ -1,0 +1,28 @@
+[
+    {
+        "function": "initNotasOrg1",
+        "verb": "post",
+        "controller": "NotasController"
+    },
+    {
+        "function": "initNotasOrg2",
+        "verb": "post",
+        "controller": "NotasController"
+    },
+    {
+        "function": "compareNotasOrg1",
+        "verb": "post",
+        "controller": "NotasController"
+    },
+    {
+        "function": "getNotasOrg1",
+        "verb": "get",
+        "controller": "NotasController"
+    },
+    {
+        "function": "getNotasPublic",
+        "verb": "get",
+        "controller": "NotasController"
+    }
+    
+]
